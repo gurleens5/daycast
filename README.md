@@ -4,7 +4,7 @@ DayCast is a weather lifestyle app that goes beyond raw forecast data. Rather th
 
 ## Live Demo
  
-🔗 **[link](example.com)**
+🔗 **[Try it out!](https://daycast-three.vercel.app/)**
 
 ## Features
  
