@@ -18,7 +18,7 @@ export function background(weatherCode: number, isDay: boolean): string {
     }
 
     if ([95, 96, 99].includes(weatherCode)) {
-        return "bg-gradient-to-b from-gray-400 to-gray-900 dark:from-gray-950 dark:to-black";
+       return "bg-gradient-to-b from-gray-400 to-gray-900 dark:from-gray-900 dark:to-gray-950";
     }
 
     return "bg-gray-100 dark:bg-gray-950";
