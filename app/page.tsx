@@ -34,7 +34,7 @@ export default function Home() {
           onClick={() => loadWeather(lastLocation.lat, lastLocation.lon)}
           className="text-sm px-4 py-2 rounded-lg bg-gray-200 dark:bg-gray-800 hover:bg-gray-300 dark:hover:bg-gray-700"
         >
-          Try again in a moment
+          Please try again in a moment
         </button>
       </main>
     );

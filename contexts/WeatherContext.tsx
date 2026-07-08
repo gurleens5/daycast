@@ -68,7 +68,6 @@ export function WeatherProvider({ children }: { children: React.ReactNode }) {
             setStatus(suggestions ? "success" : "error");
         
         } catch (err) {
-            setError("Couldn't load weather right now. Please try again.");
             setStatus("error");
         }
     }
